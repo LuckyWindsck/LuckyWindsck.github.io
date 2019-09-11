@@ -1,0 +1,8 @@
+### Local File ###
+.DS_Store
+### Local File ###
+
+### Node ###
+# Dependency directories
+node_modules/
+### Node ###
